@@ -1,0 +1,15 @@
+{
+  "name": "reading-light-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A lovely dark palette designed for writing and editing prose. Based on the City Lights syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "git@github.com:cberret/reading-light-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
